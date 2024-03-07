@@ -99,3 +99,4 @@ C:\sem 2 MSD\SOFTWARE QUALITY\TriangleSolver\TriangleSolver\Assignment\obj\Debug
 C:\sem 2 MSD\SOFTWARE QUALITY\TriangleSolver\TriangleSolver\Assignment\obj\Debug\net8.0\Assignment.pdb
 C:\sem 2 MSD\SOFTWARE QUALITY\TriangleSolver\TriangleSolver\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
 C:\sem 2 MSD\SOFTWARE QUALITY\TriangleSolver\TriangleSolver\Assignment\obj\Debug\net8.0\ref\Assignment.dll
+C:\sem 2 MSD\SOFTWARE QUALITY\TriangleSolver\TriangleSolver\Assignment\obj\Debug\net8.0\Assignment.sourcelink.json

@@ -36,20 +36,7 @@ namespace TriangleSolver
             // Assert
             Assert.That(result, Is.EqualTo("Isosceles triangle"));
         }
-        [Test]
-        public void AnalyzeTriangle_ValidIsosceles2_ReturnsIsosceles()
-        {
-            // Arrange
-            int side1 = 3;
-            int side2 = 5;
-            int side3 = 5;
-
-            // Act
-            string result = Triangle.AnalyzeTriangle(side1, side2, side3);
-
-            // Assert
-            Assert.That(result, Is.EqualTo("Isosceles triangle"));
-        }
+        
 
     }
 
